@@ -1,0 +1,3 @@
+ot_nblog_homepage:
+    pattern:  /service/{name}
+    defaults: { _controller: OTNblogBundle:Default:index }

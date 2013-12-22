@@ -1,0 +1,4 @@
+ot_nblog:
+    resource: "@OTNblogBundle/Resources/config/routing.yml"
+    prefix:   /
+
